@@ -9,9 +9,12 @@ A simple Ray Tracer written in Kotlin.
 - repositionable and adjustable camera,
 - 3 different types of objects,
 - 3 different types of materials,
-- basic code paralellization.
+- basic code paralellization,
+- really simple GUI made with Compose Multiplaform framework.
 
 ## Usage
+
+Ray Tracer can be run by running the Main.kt file.
 
 Users can add objects by creating a .txt file and specifying objects' parameters in that file. Parameters are delimited with semicolons.
 
